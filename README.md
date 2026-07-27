@@ -1,7 +1,7 @@
 # jaguarcartreader
 
-Modification of GrumpyGopher's modification of @sakman55's Standalone Atari Jaguar Cart Reader <br/>
-Adds support for dumping ROMs 6MB in size.<br/>
+Tolbat's personal modification of PsychoFox11 and GrumpyGopher's modification of @sakman55's Standalone Atari Jaguar Cart Reader <br/>
+Adds support for dumping 4MB, 6MB ROMS, including homebrew Roms and also has a probing program to determine how a cart was written to ensure future compatibility and code adjustments.<br/>
 
 Text from GrumpyGopher's fork retained below for reference.<br/>
 
